@@ -1,0 +1,21 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "It it the Auth Service of QuickBite V2",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hydra-Ramesh/QuickBite-V2.git"
+  },
+  "author": "Ramesh Das",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hydra-Ramesh/QuickBite-V2/issues"
+  },
+  "homepage": "https://github.com/Hydra-Ramesh/QuickBite-V2#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
